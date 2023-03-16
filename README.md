@@ -45,5 +45,3 @@ A presentation on this project can be found in ds_project.ppt. <br />
 ### Deployment
 The logistic regression model is deployed using a Streamlit app. To run the app, navigate to the project directory in the command prompt and run the following command:streamlit run file location(r1.py) <br />
 The app will open in a web browser, where the user can input the required parameters and obtain a prediction for the presence or absence of liver disease. <br />
-### License
-This project is licensed under the MIT License - see the LICENSE.md file for details. <br />
